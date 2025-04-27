@@ -1,2 +1,2 @@
 # sades-nails
-Sadie's website for her nail business
+Sades business website for scheduling, selling products, and displaying her portfolio. 
